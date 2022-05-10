@@ -1,5 +1,5 @@
 
-print('''_ Insira a chave de acesso para adicionar as notas ao mapa de separação: 
+print('''_ Insira a chave de acesso: 
 ''')
 opção = 0
 
